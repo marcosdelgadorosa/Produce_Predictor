@@ -16,4 +16,5 @@ you must first open the code for predict_single_image and edit line 53:
 test_image = r"YOUR IMAGE PATH" # CHANGE THIS to the image you want to test
 
 Then, run this line to run the program:
+
 py -3.10 predict_single_image.py
